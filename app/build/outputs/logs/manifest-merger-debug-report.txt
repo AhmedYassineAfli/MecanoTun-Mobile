@@ -1,0 +1,394 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:2:1-71:12
+MERGED from [androidx.databinding:databinding-adapters:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\0915253830b07d1e79f5678e4e162198\transformed\databinding-adapters-8.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fe5a3b8ee043fdfa7af320148168cf76\transformed\databinding-ktx-8.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\47c771888c20b2c01bdae62ee60ebba9\transformed\databinding-runtime-8.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\b98d2c2609a1a9eb1b62c6f78156fe81\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5e74473cca90a5cdc6abad34dc89714c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\7b7f2e77005885042c8bd4b46ab422b6\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\426edf3c3869579c6e23602e1e2765ae\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\480cea9412b0be8f5bb1f8be456bb5e3\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5ec47ef130b3d29e306f16ab8041b787\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\03899aebbf3f29c3e84bee338e37300b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\4f6fcad1647d41cdafb76b1daf5a0bd3\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\b9255de3f75dd31f48b9d77127aaaf2f\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\2d63c0c3936693b3f22f88f97b2ffb9f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\0bc8c0185dcbda69f143fa8e24fa0662\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\d42d8bb38363e1642fc7105729b9081b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\d6a11105c09b18c33d62c621a0d0bae1\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\c440dc5d637dd37d79ed93d81b860d6b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\3b4bac8aa0a60dd1c19c43afcb25a747\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fee0b1bacb5c6188dacec2827b505555\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\80fb8d3dbae8bb91fdd29e681b22a50c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\8af2a9e576051f8dfa6ab87a2b8ba782\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\49ecec47fda9598e98a41756d215736f\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\3730f20f9514008aa77d2374b082ffce\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\07a5f876a2014e8af6b1281d15f19722\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\71209a078ac6a9c8759e9b213387b8c9\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\e5d48832cb529b24f58e7449707daabe\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\3a6ca776619e2b295f79461ab5f59c08\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\eedcbcaaf06c111abf59c4d490546e8d\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\1d916f58a1040e8ff5dd9c1bcc7a32b1\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\2f6a2c8e88167502821c3478e9c58f5d\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\abee578bc105aef74bf7e6d7cea4b922\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\8288f9afe92ec8fda2506ccd71815444\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\b9cc0e1a52989787a90f39f868a2cf86\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\0f9842c696a83777c88085f8a158e4d4\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\e8caefd574bb40081d5bdd690289f17c\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\c5767d7e7da8966fb47f68eb2bbf8ac3\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\813c1856787a03c93c22e4ad2511cb63\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\6275bc8f662cbeaf7958fe400d5b3197\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\7399c94d032655b7b749c330454b233a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\9895b0190779385f3b83661290798e6f\transformed\viewbinding-8.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\8ab4a64894b472518e099f1a34c68573\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5a63ef5b12c8d15109866821c30dac49\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\37d0595e9104b648f1e67320024ad827\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5a8a8a90ec0d845b494d2d8abe21193f\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\6dc700566bcff5ba5eb24d3533920450\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\00335a446f3d33dc029bf14cfe34456a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\d63a48bbbef2748f5c683fee4e7c77fb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\593f99c0df03142878ef1e38ed55a9f0\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:7:5-69:19
+INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:7:5-69:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\b98d2c2609a1a9eb1b62c6f78156fe81\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\b98d2c2609a1a9eb1b62c6f78156fe81\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5e74473cca90a5cdc6abad34dc89714c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5e74473cca90a5cdc6abad34dc89714c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\1d916f58a1040e8ff5dd9c1bcc7a32b1\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\1d916f58a1040e8ff5dd9c1bcc7a32b1\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\7399c94d032655b7b749c330454b233a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\7399c94d032655b7b749c330454b233a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5a63ef5b12c8d15109866821c30dac49\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5a63ef5b12c8d15109866821c30dac49\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:13:9-53
+	android:usesCleartextTraffic
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.mecanotun.mobile.MainActivity
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:exported
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.mecanotun.mobile.LoginActivity
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:28:13-42
+activity#com.mecanotun.mobile.SignUpActivity
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:32:13-43
+activity#com.mecanotun.mobile.HomeActivity
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:36:13-41
+activity#com.mecanotun.mobile.VehiclesActivity
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:39:9-42:58
+	android:parentActivityName
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:42:13-55
+	android:exported
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:40:13-45
+activity#com.mecanotun.mobile.ServicesActivity
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:44:9-47:58
+	android:parentActivityName
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:47:13-55
+	android:exported
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:45:13-45
+activity#com.mecanotun.mobile.BookAppointmentActivity
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:49:9-52:62
+	android:parentActivityName
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:52:13-59
+	android:exported
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:50:13-52
+activity#com.mecanotun.mobile.AppointmentsActivity
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:54:9-57:58
+	android:parentActivityName
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:55:13-49
+activity#com.mecanotun.mobile.ProfileActivity
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:59:9-62:58
+	android:parentActivityName
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:62:13-55
+	android:exported
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:60:13-44
+activity#com.mecanotun.mobile.TimeSlotSelectionActivity
+ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:64:9-67:69
+	android:parentActivityName
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:67:13-66
+	android:exported
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml:65:13-54
+uses-sdk
+INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\0915253830b07d1e79f5678e4e162198\transformed\databinding-adapters-8.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\0915253830b07d1e79f5678e4e162198\transformed\databinding-adapters-8.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fe5a3b8ee043fdfa7af320148168cf76\transformed\databinding-ktx-8.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fe5a3b8ee043fdfa7af320148168cf76\transformed\databinding-ktx-8.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\47c771888c20b2c01bdae62ee60ebba9\transformed\databinding-runtime-8.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\47c771888c20b2c01bdae62ee60ebba9\transformed\databinding-runtime-8.13.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\b98d2c2609a1a9eb1b62c6f78156fe81\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\b98d2c2609a1a9eb1b62c6f78156fe81\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5e74473cca90a5cdc6abad34dc89714c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5e74473cca90a5cdc6abad34dc89714c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\7b7f2e77005885042c8bd4b46ab422b6\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\7b7f2e77005885042c8bd4b46ab422b6\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\426edf3c3869579c6e23602e1e2765ae\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\426edf3c3869579c6e23602e1e2765ae\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\480cea9412b0be8f5bb1f8be456bb5e3\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\480cea9412b0be8f5bb1f8be456bb5e3\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5ec47ef130b3d29e306f16ab8041b787\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5ec47ef130b3d29e306f16ab8041b787\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\03899aebbf3f29c3e84bee338e37300b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\03899aebbf3f29c3e84bee338e37300b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\4f6fcad1647d41cdafb76b1daf5a0bd3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\4f6fcad1647d41cdafb76b1daf5a0bd3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\b9255de3f75dd31f48b9d77127aaaf2f\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\b9255de3f75dd31f48b9d77127aaaf2f\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\2d63c0c3936693b3f22f88f97b2ffb9f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\2d63c0c3936693b3f22f88f97b2ffb9f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\0bc8c0185dcbda69f143fa8e24fa0662\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\0bc8c0185dcbda69f143fa8e24fa0662\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\d42d8bb38363e1642fc7105729b9081b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\d42d8bb38363e1642fc7105729b9081b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\d6a11105c09b18c33d62c621a0d0bae1\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\d6a11105c09b18c33d62c621a0d0bae1\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\c440dc5d637dd37d79ed93d81b860d6b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\c440dc5d637dd37d79ed93d81b860d6b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\3b4bac8aa0a60dd1c19c43afcb25a747\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\3b4bac8aa0a60dd1c19c43afcb25a747\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fee0b1bacb5c6188dacec2827b505555\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fee0b1bacb5c6188dacec2827b505555\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\80fb8d3dbae8bb91fdd29e681b22a50c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\80fb8d3dbae8bb91fdd29e681b22a50c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\8af2a9e576051f8dfa6ab87a2b8ba782\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\8af2a9e576051f8dfa6ab87a2b8ba782\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\49ecec47fda9598e98a41756d215736f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\49ecec47fda9598e98a41756d215736f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\3730f20f9514008aa77d2374b082ffce\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\3730f20f9514008aa77d2374b082ffce\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\07a5f876a2014e8af6b1281d15f19722\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\07a5f876a2014e8af6b1281d15f19722\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\71209a078ac6a9c8759e9b213387b8c9\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\71209a078ac6a9c8759e9b213387b8c9\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\e5d48832cb529b24f58e7449707daabe\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\e5d48832cb529b24f58e7449707daabe\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\3a6ca776619e2b295f79461ab5f59c08\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\3a6ca776619e2b295f79461ab5f59c08\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\eedcbcaaf06c111abf59c4d490546e8d\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\eedcbcaaf06c111abf59c4d490546e8d\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\1d916f58a1040e8ff5dd9c1bcc7a32b1\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\1d916f58a1040e8ff5dd9c1bcc7a32b1\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\2f6a2c8e88167502821c3478e9c58f5d\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\2f6a2c8e88167502821c3478e9c58f5d\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\abee578bc105aef74bf7e6d7cea4b922\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\abee578bc105aef74bf7e6d7cea4b922\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\8288f9afe92ec8fda2506ccd71815444\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\8288f9afe92ec8fda2506ccd71815444\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\b9cc0e1a52989787a90f39f868a2cf86\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\b9cc0e1a52989787a90f39f868a2cf86\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\0f9842c696a83777c88085f8a158e4d4\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\0f9842c696a83777c88085f8a158e4d4\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\e8caefd574bb40081d5bdd690289f17c\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\e8caefd574bb40081d5bdd690289f17c\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\c5767d7e7da8966fb47f68eb2bbf8ac3\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\c5767d7e7da8966fb47f68eb2bbf8ac3\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\813c1856787a03c93c22e4ad2511cb63\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\813c1856787a03c93c22e4ad2511cb63\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\6275bc8f662cbeaf7958fe400d5b3197\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\6275bc8f662cbeaf7958fe400d5b3197\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\7399c94d032655b7b749c330454b233a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\7399c94d032655b7b749c330454b233a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\9895b0190779385f3b83661290798e6f\transformed\viewbinding-8.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\9895b0190779385f3b83661290798e6f\transformed\viewbinding-8.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\8ab4a64894b472518e099f1a34c68573\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\8ab4a64894b472518e099f1a34c68573\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5a63ef5b12c8d15109866821c30dac49\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5a63ef5b12c8d15109866821c30dac49\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\37d0595e9104b648f1e67320024ad827\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\37d0595e9104b648f1e67320024ad827\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5a8a8a90ec0d845b494d2d8abe21193f\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5a8a8a90ec0d845b494d2d8abe21193f\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\6dc700566bcff5ba5eb24d3533920450\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\6dc700566bcff5ba5eb24d3533920450\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\00335a446f3d33dc029bf14cfe34456a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\00335a446f3d33dc029bf14cfe34456a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\d63a48bbbef2748f5c683fee4e7c77fb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\d63a48bbbef2748f5c683fee4e7c77fb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\593f99c0df03142878ef1e38ed55a9f0\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\593f99c0df03142878ef1e38ed55a9f0\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yassin\OneDrive\Desktop\carRepairSystem-main\mobile\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\1d916f58a1040e8ff5dd9c1bcc7a32b1\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\1d916f58a1040e8ff5dd9c1bcc7a32b1\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5a63ef5b12c8d15109866821c30dac49\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\5a63ef5b12c8d15109866821c30dac49\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\743973bcb0c8287bc53abd424e5e7f64\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.mecanotun.mobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.mecanotun.mobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\fb8f0c27c3ed1f8092422789d11ac4b1\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\1d916f58a1040e8ff5dd9c1bcc7a32b1\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\1d916f58a1040e8ff5dd9c1bcc7a32b1\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\1d916f58a1040e8ff5dd9c1bcc7a32b1\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\yassin\.gradle\caches\9.0-milestone-1\transforms\bd8e83bb024c8e65f2c23bd220b826f7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
